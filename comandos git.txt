@@ -1,0 +1,14 @@
+# Para ver se é um repositório
+$ git status
+
+# Inicializar um repositório
+$ git init
+
+# Adicionar (rastrear) arquivos no repositório
+$ git add .
+
+# Confirmar alterações
+$ git commit -a -m "sua mensagem aqui"
+
+# Enviar ao github
+$ git push origin master
